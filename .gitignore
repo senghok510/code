@@ -34,8 +34,6 @@ checkpoints/
 runs/
 
 # Datasets and large files
-data/
-*.csv
 *.tsv
 *.jsonl
 *.zip
