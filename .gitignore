@@ -1,0 +1,51 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+
+# PyCharm settings
+.idea/
+
+# Environment variables
+.env
+*.env
+
+# Logs and outputs
+*.log
+logs/
+*.out
+
+# Model weights and checkpoints
+*.pt
+*.pth
+*.ckpt
+checkpoints/
+runs/
+
+# Datasets and large files
+data/
+*.csv
+*.tsv
+*.jsonl
+*.zip
+*.tar.gz
+
+# Cache directories
+.cache/
+torch_cache/
+huggingface/
+
+# Mac and Linux system files
+.DS_Store
+Thumbs.db
